@@ -1,4 +1,4 @@
-name: foo
+name: package-foo
 title: foo
 version: master
 start_page: ROOT:index.adoc
