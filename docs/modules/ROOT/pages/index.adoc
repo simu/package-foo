@@ -1,0 +1,3 @@
+= foo
+
+foo is a Commodore configuration package to manage foo.

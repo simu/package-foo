@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/projectsyn/commodore-config-package-template.git",
+  "commit": "ba75b0be293f12e7d00d65274d4a420a1b505747",
+  "checkout": "main",
+  "context": {
+    "cookiecutter": {
+      "name": "foo",
+      "slug": "foo",
+      "test_cases": "defaults",
+      "add_golden": "y",
+      "copyright_holder": "VSHN AG <info@vshn.ch>",
+      "copyright_year": "2022",
+      "github_owner": "simu",
+      "__github_name": "package-foo",
+      "__github_url": "https://github.com/simu/package-foo",
+      "_template": "https://github.com/projectsyn/commodore-config-package-template.git"
+    }
+  },
+  "directory": null
+}
